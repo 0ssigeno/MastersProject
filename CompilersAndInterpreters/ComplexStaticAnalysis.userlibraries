@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="antlr-4.7.2-complete">
+    <archive path="/home/ossigeno/IdeaProjects/ComplexStaticAnalysis/lib/antlr-4.7.2-complete.jar" />
+  </library>
+</eclipse-userlibraries>
+

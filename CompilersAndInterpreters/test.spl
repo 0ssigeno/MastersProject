@@ -1,0 +1,12 @@
+{int x = 1 ;
+
+ f(var int x ,int n){
+
+ 	if (n == 0) then { print(x) ; }
+
+ 	else { int y = x*n ;print y; f(x,n-1) ; }
+
+ 	delete x ;
+}
+ f(x,6) ;
+}
