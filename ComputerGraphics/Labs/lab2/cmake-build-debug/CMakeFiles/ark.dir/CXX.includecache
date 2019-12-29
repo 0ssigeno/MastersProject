@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ossigeno/University/Consegna/lab2/arkanoid.cpp
+stdio.h
+/home/ossigeno/University/Consegna/lab2/stdio.h
+vector
+-
+GL/glew.h
+-
+GL/freeglut.h
+-
+cmath
+-
+algorithm
+-
+string
+-
+

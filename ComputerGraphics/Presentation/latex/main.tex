@@ -1,0 +1,89 @@
+
+
+\documentclass[14pt]{report}
+\usepackage[a4paper]{geometry}
+\usepackage[myheadings]{fullpage}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{graphicx, wrapfig, subcaption, setspace, booktabs}
+\usepackage[T1]{fontenc}
+\usepackage[font=small, labelfont=bf]{caption}
+\usepackage{fourier}
+\usepackage[protrusion=true, expansion=true]{microtype}
+\usepackage[english]{babel}
+\usepackage{sectsty}
+\usepackage{url, lipsum}
+\usepackage{tgbonum}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{minted}
+\usepackage[utf8]{inputenc}
+\newcommand{\HRule}[1]{\rule{\linewidth}{#1}}
+\onehalfspacing
+\setcounter{tocdepth}{5}
+\setcounter{secnumdepth}{5}
+
+
+%-------------------------------------------------------------------------------
+% HEADER & FOOTER
+%-------------------------------------------------------------------------------
+\pagestyle{fancy}
+\fancyhf{}
+\setlength\headheight{15pt}
+\fancyhead[L]{Simone Berni }
+\fancyhead[R]{Fondamenti di Computer Graphics}
+%-------------------------------------------------------------------------------
+% TITLE PAGE
+%-------------------------------------------------------------------------------
+
+\begin{document}
+
+{\fontfamily{cmr}\selectfont
+\title{ \normalsize \textsc{}
+		\\ [2.0cm]
+		\HRule{2pt} \\ [0.5cm]
+	    \textbf{\uppercase{Corso di Fondamenti di Computer Graphics}}\\
+		\HRule{0.5pt} \\
+		\LARGE \textbf{\uppercase{Report Laboratori}
+		\HRule{2pt} \\ [0.5cm]
+		\normalsize \today \vspace*{5\baselineskip}}
+		}
+
+\date{}
+
+\author{
+        \textbf{Simone Berni 893034} \\
+        Laurea Magistrale in Informatica\\
+        Alma Mater Studiorum
+ }
+
+\maketitle
+\newpage
+
+%-------------------------------------------------------------------------------
+% Section title formatting
+%-------------------------------------------------------------------------------
+
+%-------------------------------------------------------------------------------
+% BODY
+%-------------------------------------------------------------------------------
+\section*{Introduzione}
+Tutte le seguenti esercitazioni sono state svolte utilizzando come sistema operativo Arch Linux e come ide CLion della IntelliJ. Se ci dovessero essere problemi di incompatibilità con i sistemi Windows, mi scuso, ma purtroppo tutte le mie macchine girano su sistemi Unix.
+% PANDA scorretto in ita. Scrivi "in tutte le mie macchine girano sistemi Unix"
+\newpage
+
+%PANDA ti prego togli lo 0 prima, non si può vedere, anche nell'indice
+\section*{Esercitazione 1}
+\input{p1.tex}
+
+\section*{Esercitazione 2}
+\input{p2.tex}
+
+\section*{Esercitazione 3}
+\input{p3.tex}
+
+\section*{Esercitazione 6} 
+\input{p5.tex}
+
+}
+\end{document}

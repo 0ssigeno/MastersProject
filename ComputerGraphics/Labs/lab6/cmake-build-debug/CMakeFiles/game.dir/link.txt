@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/game.dir/main.cpp.o CMakeFiles/game.dir/HUD_Logger.cpp.o CMakeFiles/game.dir/common.cpp.o  -o game /usr/lib/libOpenGL.so /usr/lib/libGLX.so /usr/lib/libGLU.so /usr/lib/libglut.so /usr/lib/libXmu.so /usr/lib/libXi.so /usr/lib/libGLEW.so 

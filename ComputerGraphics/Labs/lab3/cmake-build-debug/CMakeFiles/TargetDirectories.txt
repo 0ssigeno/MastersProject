@@ -1,0 +1,3 @@
+/home/ossigeno/University/Consegna/lab3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ossigeno/University/Consegna/lab3/cmake-build-debug/CMakeFiles/game.dir
+/home/ossigeno/University/Consegna/lab3/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ossigeno/University/Consegna/lab3/HUD_Logger.h
+chrono
+-
+string
+-
+vector
+-
+
+/home/ossigeno/University/Consegna/lab3/main.cpp
+unistd.h
+-
+stdio.h
+-
+math.h
+-
+string
+-
+unordered_map
+-
+vector
+-
+GL/glew.h
+-
+GL/freeglut.h
+-
+glm/glm.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+glm/gtc/type_ptr.hpp
+-
+HUD_Logger.h
+/home/ossigeno/University/Consegna/lab3/HUD_Logger.h
+

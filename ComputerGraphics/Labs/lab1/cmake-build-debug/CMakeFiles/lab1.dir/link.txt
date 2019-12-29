@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/lab1.dir/lab1.cpp.o  -o lab1 /usr/lib/libOpenGL.so /usr/lib/libGLX.so /usr/lib/libGLU.so /usr/lib/libglut.so /usr/lib/libXmu.so /usr/lib/libXi.so /usr/lib/libGLEW.so 

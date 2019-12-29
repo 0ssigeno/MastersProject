@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/jump.dir/JumpingBall.cpp.o  -o jump /usr/lib/libOpenGL.so /usr/lib/libGLX.so /usr/lib/libGLU.so /usr/lib/libglut.so /usr/lib/libXmu.so /usr/lib/libXi.so /usr/lib/libGLEW.so 

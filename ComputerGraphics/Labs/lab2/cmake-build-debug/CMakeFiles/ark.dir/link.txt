@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ark.dir/arkanoid.cpp.o  -o ark /usr/lib/libOpenGL.so /usr/lib/libGLX.so /usr/lib/libGLU.so /usr/lib/libglut.so /usr/lib/libXmu.so /usr/lib/libXi.so /usr/lib/libGLEW.so 

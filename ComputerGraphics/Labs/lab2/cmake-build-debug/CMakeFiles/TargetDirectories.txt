@@ -1,0 +1,7 @@
+/home/ossigeno/University/Consegna/lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ossigeno/University/Consegna/lab2/cmake-build-debug/CMakeFiles/gioco.dir
+/home/ossigeno/University/Consegna/lab2/cmake-build-debug/CMakeFiles/bigGioco.dir
+/home/ossigeno/University/Consegna/lab2/cmake-build-debug/CMakeFiles/jump.dir
+/home/ossigeno/University/Consegna/lab2/cmake-build-debug/CMakeFiles/ark.dir
+/home/ossigeno/University/Consegna/lab2/cmake-build-debug/CMakeFiles/particle.dir
+/home/ossigeno/University/Consegna/lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
